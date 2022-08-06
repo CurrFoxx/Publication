@@ -24,7 +24,7 @@
                     <textarea name="content" class="news_content" id="news_content" cols="60" rows="5" placeholder="Текст для анонса"></textarea></br>
                     <label for="news_img">Выберите картинку</label>
                     <input type="file" name="news_img" class="news_img" id="news_img" placeholder="Изображение" accept=".jpg, .jpeg, .png"></br>
-                    <button id="btn_addNews">Добавить</button>
+                    <button class="btn_addNews" id="btn_addNews">Добавить</button>
                     <p id="result"></p>
                 </form>
             </div>
